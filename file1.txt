@@ -1,0 +1,3 @@
+this is a file created using git bash
+file in gitex
+thankyou
