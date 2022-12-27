@@ -1,1 +1,5 @@
 file2 created using gitbash in gitex
+
++
++
+this is new line added for git diff.
